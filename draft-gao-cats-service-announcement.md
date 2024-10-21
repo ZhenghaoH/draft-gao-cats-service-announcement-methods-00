@@ -1,5 +1,5 @@
 ---
-title: "TODO - Your title"
+title: "Service Announcement Methods for CATS"
 abbrev: "TODO - Abbreviation"
 category: info
 
@@ -25,9 +25,14 @@ venue:
 
 author:
  -
-    fullname: "ZhenghaoH"
-    organization: Your Organization Here
-    email: "131444234+ZhenghaoH@users.noreply.github.com"
+    
+    fullname: "Shuai Gao"
+    organization: Beijing Jiaotong University
+    email: "shgao@bjtu.edu.cn"
+    
+    fullname: "Zhenghao Hu"
+    organization: Beijing Jiaotong University
+    email: "24110054@bjtu.edu.cn"
 
 normative:
 
